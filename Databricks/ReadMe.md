@@ -1,6 +1,5 @@
----
 
-# 🚀 Spark + Databricks Learning Roadmap (Outline)
+#  Spark + Databricks Learning Roadmap (Outline)
 
 ## 🟢 1. Introduction to Big Data & Spark
 
